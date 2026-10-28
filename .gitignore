@@ -1,0 +1,2 @@
+# Local sandbox repo built by setup.sh (make sandbox) — has its own .git, never commit it.
+sandbox/
